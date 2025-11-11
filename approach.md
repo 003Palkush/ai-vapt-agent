@@ -209,8 +209,9 @@ That's what makes this an **agent**, not just a script.
 
 ---
 
-**Author:** [Your Name]  
+**Author:** Palkush Dave
 **Built With:** Ollama Llama 3.1 🦙 + Python 3.11 + LangChain  
 **Philosophy:** "Automate the execution, preserve the reasoning"  
 **Assignment:** Clarice Systems Agentic AI Internship  
+
 **Date:** November 11, 2025
